@@ -1,0 +1,6 @@
+{
+  "name": "Dev Medical",
+  "description": "Dev Medical in Makhdumpur, Bihar: Your trusted pharmacy for genuine medicines, healthcare essentials, baby care, surgical supplies, and WhatsApp prescription orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
