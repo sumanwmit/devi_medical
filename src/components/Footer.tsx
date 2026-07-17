@@ -190,7 +190,7 @@ export default function Footer({ setActiveTab, openModal }: FooterProps) {
         <div className="pt-8 text-xs text-slate-500 space-y-4">
           <div className="flex flex-wrap justify-center lg:justify-between gap-4">
             <p className="text-center lg:text-left">
-              &copy; {new Date().getFullYear()} <strong>Dev Medical</strong>. All rights reserved. Registered Chemist & Druggist, Makhdumpur, Bihar.
+              &copy; {new Date().getFullYear()} <strong>Dev Medical</strong>. All rights reserved. Registered Chemist & Druggist, Makhdumpur, Bihar. Developed by <a href="https://main.webmakerit.com" target="_blank" rel="noopener noreferrer" className="hover:text-white underline">WMIT</a>.
             </p>
             <div className="flex items-center space-x-4">
               <button onClick={() => openModal('privacy')} className="hover:text-white transition-colors underline">
